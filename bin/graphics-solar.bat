@@ -1,0 +1,1 @@
+start chrome http://localhost:8000/graphics-solar/src/index.html
